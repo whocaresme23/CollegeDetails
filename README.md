@@ -1,0 +1,2 @@
+# CollegeDetails
+Bachelor's
